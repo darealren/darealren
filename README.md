@@ -1,16 +1,13 @@
-## Hi there 👋
+# Aizawa Ren
 
-<!--
-**darealren/darealren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Cybersecurity | 💻 Computer Science | 📐 Mathematics
 
-Here are some ideas to get you started:
+Focused on understanding systems deeply and building secure, efficient, and reliable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of interest are cybersecurity, computer science, and mathematics, supported by a solid understanding of basic computer hardware. I enjoy working on projects that challenge my thinking, strengthen my technical skills, and improve how I approach complex problems.
+
+♟️ Chess and 📚 philosophy shape my mindset—teaching strategy, patience, and logical clarity in both study and execution.
+
+This space reflects my learning journey, experiments, and projects as I continue to grow in the field.
+
+🚀 Always improving. Always building. Always learning.
